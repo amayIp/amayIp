@@ -1,5 +1,7 @@
 # hi, i'm amay
 
+> This is my main GitHub profile. My second account is [@amayIIp](https://github.com/amayIIp).
+
 I'm a software engineer focused on machine learning, backend systems, and performance tuning. I like solving and building products people actually use.
 
 [![GitHub](https://img.shields.io/badge/GitHub-amayIIp-181717?style=flat&logo=github)](https://github.com/amayIIp)
